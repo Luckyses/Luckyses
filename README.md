@@ -2,7 +2,7 @@
 
 
 
-## Hello，我是 Sunday
+## Hello，我是 Luckyses
 
 - 🔭 个人履历：11 年开发经验，5 年技术讲师经验。前黑马明星讲师、慕课网明星讲师、腾讯课堂特约讲师
 - 🔥 核心业务； [1v1前端私教训练营](https://mp.weixin.qq.com/s?__biz=MzkxNjUxMDg4Ng==&mid=2247490945&idx=1&sn=31c3a8ad7aa603fa2a92f517168ddaf3&chksm=c14f9c48f638155e9d593346dcb81994fdff09b5a6e242d7b18e67046ae3702caa7b322856b7&token=1957048641&lang=zh_CN&scene=21#wechat_redirect)，主打【1v1私教，终身辅导，帮大家拿到满意的 offer】
