@@ -1,38 +1,15 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-
-## 前端工程师—天平
-
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
-
-### **社交主页：**
-
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+![QQ20240428-205500-HD](README.assets/QQ20240428-205500-HD.gif)
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
-### **技术栈:**
+## Hello，我是 Sunday
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+- 🔭 个人履历：11 年开发经验，5 年技术讲师经验。前黑马明星讲师、慕课网明星讲师、腾讯课堂特约讲师
+- 🔥 核心业务； [1v1前端私教训练营](https://mp.weixin.qq.com/s?__biz=MzkxNjUxMDg4Ng==&mid=2247490945&idx=1&sn=31c3a8ad7aa603fa2a92f517168ddaf3&chksm=c14f9c48f638155e9d593346dcb81994fdff09b5a6e242d7b18e67046ae3702caa7b322856b7&token=1957048641&lang=zh_CN&scene=21#wechat_redirect)，主打【1v1私教，终身辅导，帮大家拿到满意的 offer】
+- 👍 原创课程：[原生混合开发](https://coding.imooc.com/class/377.html)、 [uniapp博客项目](https://coding.imooc.com/class/521.html)、[后台综合解决方案](https://coding.imooc.com/class/542.html)、[中前台综合解决方案](https://coding.imooc.com/class/577.html)、[vue3-mini](https://coding.imooc.com/class/608.html)、[JS 综合解决方案](https://coding.imooc.com/class/687.html)
+- 👯 视频账号：[B站-程序员Sunday](https://space.bilibili.com/478809258?spm_id_from=333.1007.0.0) || 抖音、小红书、视频号 -> 程序员Sunday
+- 😄 日更干货：[公众号 -> 程序员Sunday](https://github.com/lgd8981289/lgd8981289/blob/main/README.assets/image-20240428145350137.png)
 
-### 开源项目
+## 近日总结
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+[![lgd8981289's GitHub | Languages Over Time](https://stats.quine.sh/lgd8981289/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lgd8981289)
